@@ -1,0 +1,3 @@
+browser=chrome
+WebURL=https://bsuatnext.commerce.dynamics.com/
+implicitWait=30
